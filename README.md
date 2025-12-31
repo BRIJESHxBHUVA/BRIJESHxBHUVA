@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React & Node.js based full-stack projects<br>👯 I’m looking to collaborate on real-world web applications<br>🤝 I’m looking for help with scalable backend architecture & system design<br>🌱 I’m currently learning advanced Node.js, MongoDB optimization & cloud deployment<br>💬 Ask me about React, Redux Toolkit, Node.js, REST APIs, MongoDB, MySQL<br>⚡ Fun fact: I enjoy turning complex problems into clean, user-friendly solutions
+🔭 I’m currently working on React & Node.js based full-stack projects<br>👯 I’m looking to collaborate on real-world web applications<br>🤝 I’m looking for help with scalable backend architecture & system design<br>🌱 I’m currently learning advanced Node.js, MongoDB optimization & cloud deployment<br>💬 Ask me about React, Next, Redux Toolkit, Node.js, REST APIs, MongoDB, MySQL<br>⚡ Fun fact: I enjoy turning complex problems into clean, user-friendly solutions
 
 
 ## 🌐 Socials:
